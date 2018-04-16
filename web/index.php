@@ -1,6 +1,6 @@
 <?php
 	try{
-		$hostname = "ec2-54-163-240-54.compute-1.amazonaws.com";
+		$hostname = "ec2-174-129-41-64.compute-1.amazonaws.com";
     	$dbname = "d3gqbgksnbl117";
     	$username = "hvjraezogmchof";
    		$pw = "bfbc91096e12adbe3d5976921e26f5758ed98a360641f9910dac05e56827178f";
